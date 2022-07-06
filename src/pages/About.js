@@ -81,9 +81,9 @@ export default function About() {
           <div className="top-section">
             <div className="left">
               <p className="about__subheading">
-                Hi, I am <span>Ayan Khan</span>
+                Hi, I am <span>Pablo Bezard</span>
               </p>
-              <h2 className="about__heading">A freelance Web developer</h2>
+              <h2 className="about__heading">A Web developer</h2>
               <div className="about__info">
                 <PText>
                   I started in 2018, at the Mariano Moreno Institute, Cordoba,
@@ -135,7 +135,10 @@ export default function About() {
                 title="BackEnd"
                 items={['Node', 'Express', 'PHP']}
               />
-              <AboutInfoItem title="Design" items={['Photoshop', 'Figma']} />
+              <AboutInfoItem
+                title="Design"
+                items={['Photoshop', 'Illustrator']}
+              />
             </div>
             <div className="about__info__item">
               <h1 className="about__info__heading">Experiences</h1>
