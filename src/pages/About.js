@@ -86,15 +86,19 @@ export default function About() {
               <h2 className="about__heading">A freelance Web developer</h2>
               <div className="about__info">
                 <PText>
-                  I am from chittagong, Bangladesh. A place of beauty and
-                  nature. Since my childhood, i love art and design. I always
-                  try to design stuff with my unique point of view. I also love
-                  to create things that can be usefull to others.
+                  I started in 2018, at the Mariano Moreno Institute, Cordoba,
+                  Arg. as a web developer student, learning everything in the
+                  Frontend environment with HTML5, CSS and JavaScript. At that
+                  time I dedicated myself to being a cook discovering my skills
+                  and tastes.
                   <br /> <br />
-                  I started coding since I was in high school. Coding is also an
-                  art for me. I love it and now I have the opportunity to design
-                  along with the coding. I find it really interesting and I
-                  enjoyed the process a lot.
+                  Finally in 2020 I decided to focus on studying to be a
+                  software specialist; Subsequently I have completed 2 courses
+                  on the Udemy training platform on Creating themes and plugins
+                  for JavaScript ES6, Bootstrap, Web Accessibility. Currently I
+                  am a student at NUCBA Education, E-Learning, Programming,
+                  Software, Marketing - Fullstack developer, also a student at
+                  the Institute IES 21 - Systems Analyst
                   <br />
                   <br />
                   My vision is to make the world a better place. Now almost
